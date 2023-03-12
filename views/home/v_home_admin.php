@@ -48,7 +48,7 @@ include_once '../template/topbar.php';
 </div>
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h1>Welcome <span>Admin</span></h1>
-      <h2>Laudryku adalah sebuah perusahaan yang berfokus di bidang pencucian pakaian.</h2>
+      <h2>Laundryku adalah sebuah perusahaan yang berfokus di bidang pencucian pakaian.</h2>
       <div class="d-flex">
         <a href="../outlet/v_tambah_outlet.php" class="btn-get-started scrollto">Get Started</a>
       </div>

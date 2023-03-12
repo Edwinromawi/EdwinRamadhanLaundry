@@ -12,7 +12,7 @@
           <!-- menu profile quick info -->
           <div class="profile clearfix">
             <div class="profile_pic">
-              <img src="../../assets/images/mesin.png" alt="..." class="img-circle profile_img">
+              <img src="../../assets/images/king.png" alt="..." class="img-circle profile_img">
             </div>
             <div class="profile_info">
               <span>Welcome,</span>
